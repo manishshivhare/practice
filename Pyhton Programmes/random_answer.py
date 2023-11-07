@@ -3,7 +3,7 @@ import string
 import time 
 
 randomLetter = random.choice(string.ascii_letters)
-str = 'You are going to die'
+str = 'Honey Parihar'
 str1 = ''
 i = 0;
 while (True):
@@ -19,7 +19,7 @@ while (True):
     if str == str1:
         break
     
-    time.sleep(0.001)
+    time.sleep(0.01)
     
 
 
